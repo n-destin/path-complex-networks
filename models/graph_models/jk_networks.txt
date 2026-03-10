@@ -1,0 +1,11 @@
+paper review: JK-networks (Jumping Knowledge Networks)
+
+- Learning adaptive range of neighborhods to aggregate features from based on the distribution of the Influence of other nodes on a specific node
+- The Influence score of node x by another node y, is the sum of all
+    absolute values of the jacobian of the derivative of the final representation of the node with respect to the initial representation
+    of that node. 
+
+- and we normalize it the score to define a distribution. 
+- So we have junmp connections from each aggregation layer to the final layer, and we carefully select which 
+representations to choose (use for final output prediction)
+
