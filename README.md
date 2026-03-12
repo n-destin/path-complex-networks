@@ -1,12 +1,5 @@
 # Path Complex Networks
 
-[![Paper](http://img.shields.io/badge/Paper-arXiv:2308.06838-B31B1B.svg)](https://arxiv.org/abs/2308.06838)
-[![Conference](http://img.shields.io/badge/AAAI-2024-4b44ce.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/29463)
-
-<p align="center">
-    <img src="./figures/path-complex-example.png" width=400>
-</p>
-
 ## Overview
 
 This repository contains an implementation of Path Complex Networks based on the ideas introduced in:
